@@ -1,6 +1,6 @@
 ## Overview
 
-This project analyzes India's GDP and economic growth trends, focusing on the composition of GDP, sectoral contributions (Agriculture, Industry, Services), and the influence of macroeconomic factors such as inflation, foreign investment, government policy, and population growth. The analysis leverages a time-series dataset to explore economic indicators, their relationships, and their impact on India's economic development. The project is implemented in a Jupyter Notebook (GDP_Analysis.ipynb) using Python for data cleaning, exploratory data analysis (EDA), and visualization.
+This project analyzes India's GDP and economic growth trends, focusing on the composition of GDP, sectoral contributions (Agriculture, Industry, Services), and the influence of macroeconomic factors such as inflation, foreign investment, government policy, and population growth. The analysis leverages a time-series dataset to explore economic indicators, their relationships, and their impact on India's economic development.
 ## Objectives
 
 * Analyze India’s GDP trends, including Nominal GDP, Real GDP, and annual growth rates.
